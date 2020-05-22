@@ -1,0 +1,26 @@
+* Summer Project Bioinformatics Plan
+** GC-Coverage Plot [1/3]
+*** DONE [#A] Show the prototype				     :andriy:
+*** TODO [#B] Introduce to python				      :triet:
+*** TODO [#C] Make a plot with Larsen Metagenome bins		      :rahul:
+** Working with Phylogenies [0/2]
+*** TODO Demo on 16S rRNA gene trees 				      :triet:
+*** TODO make a separate plan on concat single-cell marker (GitHub)  :andriy:
+** Binning of Crystal Geyser Metagenome (Gemmatimonadetes bin)
+*** Show an example workflow on a different metagenome 		     :andriy: 
+**** Intro to the workflow [0/6]
+***** TODO Give into on NextGen Sequencing			      :triet:
+***** TODO Linux into https://drive.google.com/open?id=1NbdV0Mz0cqs36rfJJUwVUrseRl7SU2Y6 :rahul:
+***** TODO Quality control of the raw data (fastq)		     :andriy:
+***** TODO Assembly (SPAdes)					     :andriy:
+***** TODO Binning (MetaBAT)					     :andriy:
+***** TODO Bin Quality Control (CheckM)				     :andriy:
+**** TODO Annotation (*JGI*, MG-RAST/RAST, Mark Strauss's software) :andriy:rahul:triet:
+**** Local analyses (blast, hmmer)
+**** TODO Repeat the workflow on your own data			      :rahul:
+*** Downstream processing [0/2] 				      :rahul:
+**** TODO Making phylogenies
+**** TODO Genome predictions
+**** 
+** PMO-operon tree ... 
+*** TODO make a separate plan :andriy:
